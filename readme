@@ -1,0 +1,26 @@
+1. npm install
+2. run 
+   `node -e 'require("./index").handler()'`
+
+
+https://github.com/alixaxel/chrome-aws-lambda
+
+issue
+
+I followed chrome-aws-lambda exampe 
+and run
+```
+npm install chrome-aws-lambda --save-prod
+npm install puppeteer-core --save-prod
+```
+
+puppeteer-core will fail 
+
+I'm not sure why 
+
+so I just install puppeteer
+```
+npm install puppeteer
+```
+
+and it works 
