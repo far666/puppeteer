@@ -7,14 +7,14 @@ https://github.com/alixaxel/chrome-aws-lambda
 
 issue
 
-I followed chrome-aws-lambda exampe 
-and run
+I followed chrome-aws-lambda example 
+
 ```
 npm install chrome-aws-lambda --save-prod
 npm install puppeteer-core --save-prod
 ```
 
-puppeteer-core will fail 
+puppeteer-core will install fail 
 
 I'm not sure why 
 
